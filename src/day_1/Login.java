@@ -10,5 +10,6 @@ public class Login {
         name = scn.next();
         System.out.println(" Enter the password: ");
         password = scn.next();
+        //add adress
     }
 }
